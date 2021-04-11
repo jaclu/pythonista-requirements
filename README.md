@@ -6,4 +6,4 @@ In order to be able to debug & run the same code on other systems.
 
 ## gitrequirements
 A copy of https://github.com/isaacgerg/images2gif
-Just to make sure I have it available, if it disapears from that location. All credits of that file goes to isaacgerg 
+Just to make sure I have it available, if it disapears from that location. All credits for that file goes to isaacgerg 
