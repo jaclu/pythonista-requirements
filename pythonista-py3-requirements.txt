@@ -72,7 +72,7 @@ html2text==2014.4.5 # help(x)
 html5lib==0.999 # help(x)
 httplib2==0.9.2 # help(x)
 
-#images2gif
+#images2gif # From https://github.com/isaacgerg/images2gif
 #cd [site-packages]
 #wget https://raw.githubusercontent.com/isaacgerg/images2gif/master/images2gif.py
 
