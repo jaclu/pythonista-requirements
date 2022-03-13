@@ -120,5 +120,5 @@ numpy==1.8.0 # help(x)
 # === Other present, but not mentioned on
 #  https://omz-software.com/pythonista/docs/ios/index.html
 #
-nltk==3.3 # help(x)
+nltk==3.6.6 # help(x)
 yapf==0.16.1 # help(x)
