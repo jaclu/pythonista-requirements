@@ -46,7 +46,7 @@ dropbox==6.4.0 # help(x)
 faker==0.7.0 # Seems to be a Pythonista modified version < 1.0
 feedparser==5.2.1 # help(x)
 Markdown==2.6.2 # __version__.py
-markdown2==2.2.1 # help(x)
+markdown2==2.4.0 # help(x)
 paramiko==1.16.0 # _version.py
 pillow==9.0.1 # help(x) collides with reportlab==3.1.8
 PyPDF2==1.22 # help(x)
