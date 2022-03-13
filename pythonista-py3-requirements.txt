@@ -98,7 +98,7 @@ reportlab==3.1.44  # 3.1.44 and 3.0 are compatible with pillow==9.0.1
 sympy==0.7.4.1  # help(x) simpy??
 six==1.6.1 # help(x)
 sqlalchemy==0.9.7 # help(x)
-urllib3==1.14 # help(x)
+urllib3==1.26.5 # help(x)
 #wavebender==0.3 #  audio synthesis library for Python https://github.com/zacharydenton/wavebender
 werkzeug==0.9.4 # help(x)
 PyYAML==3.11 # help(x)
