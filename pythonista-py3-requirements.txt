@@ -40,7 +40,7 @@
 # Pythonista "Extras"
 #
 beautifulsoup4==4.4.1 # help(x)
-bottle==0.12.5 # help(x)
+bottle==0.12.20 # help(x)
 dropbox==6.4.0 # help(x)
 #evernote==1.25.3 # only py2
 faker==0.7.0 # Seems to be a Pythonista modified version < 1.0
