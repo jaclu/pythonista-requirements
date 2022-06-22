@@ -112,7 +112,7 @@ PyYAML==3.11 # help(x)
 #  2.0.0 works but updates other pkgs, 1.5.3 seems a closer fit
 matplotlib==1.5.3
 
-numpy==1.8.0 # help(x)
+numpy==1.22.0 # help(x)
 
 
 
