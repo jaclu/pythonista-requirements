@@ -48,7 +48,7 @@ feedparser==5.2.1 # help(x)
 Markdown==2.6.2 # __version__.py
 markdown2==2.2.1 # help(x)
 paramiko==1.16.0 # _version.py
-pillow==9.0.1 # help(x) collides with reportlab==3.1.8
+pillow==9.3.0 # help(x) collides with reportlab==3.1.8
 PyPDF2==1.22 # help(x)
 #pyminizip #only py2 in Pythonista, but available for py3
 qrcode==5.2.1 # guess, it seems to be the one based on changelog
@@ -93,7 +93,7 @@ pytest==3.0.5 # help(x)
 pytz==2015.7 # help(x)
 
 #reportlab==3.1.8 # help(x) incompatible with pillow, despite both verified versions
-reportlab==3.1.44  # 3.1.44 and 3.0 are compatible with pillow==9.0.1
+reportlab==3.1.44  # 3.1.44 and 3.0 are compatible with pillow==9.3.0
 
 sympy==0.7.4.1  # help(x) simpy??
 six==1.6.1 # help(x)
