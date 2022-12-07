@@ -60,7 +60,7 @@ xmltodict==0.8.7 # help(x)
 # Pythonista "Undocumented Modules"
 #
 arrow==0.10.0 # help(x)
-certifi==2016.02.28 # help(x)
+certifi==2022.12.7 # help(x)
 cssselect==0.9.1 # help(x)
 
 #python-dateutil==2.2 # help(x) incompatible with faker, despite verified version
