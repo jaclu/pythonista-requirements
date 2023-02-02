@@ -100,7 +100,7 @@ six==1.6.1 # help(x)
 sqlalchemy==0.9.7 # help(x)
 urllib3==1.14 # help(x)
 #wavebender==0.3 #  audio synthesis library for Python https://github.com/zacharydenton/wavebender
-werkzeug==0.9.4 # help(x)
+werkzeug==0.15.5 # help(x)
 PyYAML==3.11 # help(x)
 
 
